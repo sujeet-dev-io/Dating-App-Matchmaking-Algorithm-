@@ -140,7 +140,7 @@ No body required.
 #### Error Handling Example:
 Invalid user ID request:
 
-**Request:** `GET /api/v1/compatibility/user1/user50`
+**Request:** `GET OR POST  /api/v1/compatibility/user1/user50`
 
 **Response:**
 ```json
