@@ -10,6 +10,7 @@ public class DatingAppMatchmakingAlgorithmApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(DatingAppMatchmakingAlgorithmApplication.class, args);
+		System.out.println("Welcome To Dating App...");
 	}
 	@Bean
 	public ModelMapper modelMapper() {
